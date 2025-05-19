@@ -1,0 +1,155 @@
+[ 
+  {
+    "id": "1",
+    "text": "Photosynthesis",
+    "description": "The process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigment. This process generally involves the green pigment chlorophyll and generates oxygen as a byproduct.",
+    "categoryId": 2,
+    "categoryName": "Science",
+    "points": 3
+  },
+  {
+    "id": "2",
+    "text": "Origami",
+    "description": "The traditional Japanese art of paper folding, which transforms a flat square sheet of paper into a finished sculpture through folding and sculpting techniques. The goal is to transform the flat sheet of paper into a finished sculpture through folding and sculpting techniques.",
+    "categoryId": 1,
+    "categoryName": "General",
+    "points": 1
+  }, 
+  {
+    "id": "3",
+    "text": "Artificial Intelligence",
+    "description": "A wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence, such as learning, problem-solving, and decision-making.",
+    "categoryId": 2,
+    "categoryName": "Science",
+    "points": 2
+  },
+   {
+    "id": "4",
+    "text": "Pythagorean Theorem",
+    "description": "A fundamental relation in Euclidean geometry among the three sides of a right triangle. It states that the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.",
+    "categoryId": 2,
+    "categoryName": "Science",
+    "points": 3
+  },
+  {
+    "id": "5",
+    "text": "Cleopatra",
+    "description": "The last active ruler of the Ptolemaic Kingdom of Egypt, briefly co-ruling with her son Caesarion. As a member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great.",
+    "categoryId": 3,
+    "categoryName": "Historical Figure",
+    "points": 2
+  },
+  {
+    "id": "6",
+    "text": "Meryl Streep",
+    "description": "An American actress widely regarded as one of the greatest actresses of all time. Known for her versatility and accent work, she has received numerous accolades, including a record 21 Academy Award nominations, winning three.",
+    "categoryId": 4,
+    "categoryName": "Celebrity",
+    "points": 2
+  },
+  {
+    "id": "7",
+    "text": "Sherlock Holmes",
+    "description": "A fictional private detective created by British author Sir Arthur Conan Doyle. Referring to himself as a 'consulting detective', Holmes is known for his proficiency with observation, deduction, forensic science, and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+    "categoryId": 5,
+    "categoryName": "Fictional Character",
+    "points": 3
+  },
+  {
+    "id": "8",
+    "text": "Quidditch",
+    "description": "A fictional sport played on flying broomsticks in the Harry Potter books and films. It is noted as being a dangerous but popular sport, with four balls: the Quaffle, two Bludgers, and the Golden Snitch.",
+    "categoryId": 5,
+    "categoryName": "Fictional Character",
+    "points": 1
+  },
+  {
+    "id": "9",
+    "text": "E=mc²",
+    "description": "Albert Einstein's mass-energy equivalence formula in the theory of special relativity. The equation expresses the fact that mass and energy are the same physical entity and can be changed into each other.",
+    "categoryId": 2,
+    "categoryName": "Science",
+    "points": 4
+  },
+  {
+    "id": "10",
+    "text": "Leonardo da Vinci",
+    "description": "An Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he also became known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology.",
+    "categoryId": 3,
+    "categoryName": "Historical Figure",
+    "points": 3
+  },
+  {
+    "id": "11",
+    "text": "Dwayne 'The Rock' Johnson",
+    "description": "An American actor, producer, businessman, and former professional wrestler. Widely regarded as one of the greatest professional wrestlers of all time, he wrestled for WWF/WWE for eight years prior to pursuing an acting career.",
+    "categoryId": 4,
+    "categoryName": "Celebrity",
+    "points": 1
+  },
+  {
+    "id": "12",
+    "text": "The Mona Lisa",
+    "description": "A half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'.",
+    "categoryId": 1,
+    "categoryName": "General",
+    "points": 2
+  },
+  {
+    "id": "13",
+    "text": "Photosynthesis",
+    "description": "The process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigment. This process generally involves the green pigment chlorophyll and generates oxygen as a byproduct.",
+    "categoryId": 2,
+    "categoryName": "Science",
+    "points": 3
+  },
+  {
+    "id": "14",
+    "text": "Marie Curie",
+    "description": "A Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person and only woman to win the Nobel Prize twice, and the only person to win the Nobel Prize in two different scientific fields.",
+    "categoryId": 3,
+    "categoryName": "Historical Figure",
+    "points": 4
+  },
+  {
+    "id": "15",
+    "text": "Scarlett Johansson",
+    "description": "An American actress and singer. The world's highest-paid actress in 2018 and 2019, she has appeared multiple times on the Forbes Celebrity 100 list.",
+    "categoryId": 4,
+    "categoryName": "Celebrity",
+    "points": 1
+  },
+  {
+    "id": "16",
+    "text": "Luke Skywalker",
+    "description": "A fictional character in the Star Wars franchise, created by George Lucas. He is the central protagonist of the original film trilogy and a major character in the prequel trilogy and the sequel trilogy.",
+    "categoryId": 5,
+    "categoryName": "Fictional Character",
+    "points": 2
+  },
+  {
+    "id": "17",
+    "text": "The Internet",
+    "description": "A global network of interconnected computer networks that use the Internet protocol suite (TCP/IP) to communicate between networks and devices.",
+    "categoryId": 6,
+    "categoryName": "Et Cetera",
+    "points": 1
+  },
+  {
+    "id": "18",
+    "text": "Jazz Music",
+    "description": "A music genre that originated in the African-American communities of New Orleans, Louisiana, United States, in the late 19th and early 20th centuries, with its roots in blues and ragtime.",
+    "categoryId": 6,
+    "categoryName": "Et Cetera",
+    "points": 2
+  },
+  {
+    "id": "19",
+    "text": "The Eiffel Tower",
+    "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+    "categoryId": 1,
+    "categoryName": "General",
+    "points": 1
+  }
+]
+
